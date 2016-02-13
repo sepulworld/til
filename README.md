@@ -13,9 +13,11 @@ _1 TIL and counting..._
 ### Categories
 
 * [Riemann](#riemann)
+* [AWS](#aws)
 
 ---
 
 ### Riemann
 
 - [Set State from Client Side](riemann/set-state-from-client-side.md)
+- [Using-Roles for External Accounts](aws/using-roles-for-external-accounts.md)
