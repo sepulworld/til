@@ -9,9 +9,9 @@ required resources
 
 "Switching Roles with the AWS CLI" in [docs](http://docs.aws.amazon.com/IAM/latest/UserGuide/walkthru_cross-account-with-roles.html)
 
-It sort of sucks to use aws cli for this because you will have to deal with the temp access variables and export them in the cli.
+Using `aws cli` for this type of access is painful... you will have to deal with the temp access variables and export them in the cli.
 
-Using AWS STS AssumeRole is best handled in AWS SDKs, example here in Python boto
+AWS STS AssumeRole is best handled in AWS SDKs, example here in Python Boto
 
 ```python
 import boto3
