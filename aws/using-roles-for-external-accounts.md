@@ -13,7 +13,7 @@ It sort of sucks to use aws cli for this because you will have to deal with the 
 
 Using AWS STS AssumeRole is best handled in AWS SDKs, example here in Python boto
 
-```
+```python
 import boto3
 
 sts_client = boto3.client('sts')
