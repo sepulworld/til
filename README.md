@@ -21,5 +21,11 @@ _3 TIL and counting..._
 ### Riemann
 
 - [Set State from Client Side](riemann/set-state-from-client-side.md)
+
+### AWS
+
 - [Using-Roles for External Accounts](aws/using-roles-for-external-accounts.md)
+
+### Philosophies
+
 - [Choose Action over Planning](philosophies/choose-action-over-planning.md)
