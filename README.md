@@ -7,13 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Trulia](http://trulia.com/).
 
-_2 TIL and counting..._
+_3 TIL and counting..._
 ---
 
 ### Categories
 
 * [Riemann](#riemann)
 * [AWS](#aws)
+* [Philosophies](#philosophies)
 
 ---
 
@@ -21,3 +22,4 @@ _2 TIL and counting..._
 
 - [Set State from Client Side](riemann/set-state-from-client-side.md)
 - [Using-Roles for External Accounts](aws/using-roles-for-external-accounts.md)
+- [Choose Action over Planning](philosophies/choose-action-over-planning.md)
