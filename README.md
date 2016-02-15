@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Trulia](http://trulia.com/).
 
-_3 TIL and counting..._
+_4 TIL and counting..._
 ---
 
 ### Categories
@@ -25,6 +25,7 @@ _3 TIL and counting..._
 ### AWS
 
 - [Using-Roles for External Accounts](aws/using-roles-for-external-accounts.md)
+- [Use Bash Utilities to Update aws/credentials for AssumeRole](aws/bash-utilities-assume-role.md)
 
 ### Philosophies
 
