@@ -28,6 +28,7 @@ Example output snippet
      ...
    ]
 }
+```
 
 results could be useful if you want to vary your bid price based upon some trends in the pricing history. 
 
