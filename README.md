@@ -12,21 +12,27 @@ _4 TIL and counting..._
 
 ### Categories
 
-* [Riemann](#riemann)
 * [AWS](#aws)
+* [Riemann](#riemann)
+* [Hadoop](#hadoop)
 * [Philosophies](#philosophies)
 
 ---
-
-### Riemann
-
-- [Set State from Client Side](riemann/set-state-from-client-side.md)
 
 ### AWS
 
 - [Using-Roles for External Accounts](aws/using-roles-for-external-accounts.md)
 - [Use Bash Utilities to Update aws/credentials for AssumeRole](aws/bash-utilities-assume-role.md)
 - [Spot Instance Pricing History](aws/spot-instance-pricing-history.md)
+
+### Hadoop 
+
+- [Distcp hftp partition size limit](hadoop/distcp-hftp-partition-size-limit.md)
+
+### Riemann
+
+- [Set State from Client Side](riemann/set-state-from-client-side.md)
+
 
 ### Philosophies
 
