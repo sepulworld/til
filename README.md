@@ -7,15 +7,16 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Trulia](http://trulia.com/).
 
-_5 TIL and counting..._
+_6 TIL and counting..._
 ---
 
 ### Categories
 
 * [AWS](#aws)
-* [Riemann](#riemann)
 * [Hadoop](#hadoop)
 * [Philosophies](#philosophies)
+* [Riemann](#riemann)
+* [Terraform](#terraform)
 
 ---
 
@@ -29,11 +30,15 @@ _5 TIL and counting..._
 
 - [Distcp hftp partition size limit](hadoop/distcp-hftp-partition-size-limit.md)
 
+### Philosophies
+
+- [Choose Action over Planning](philosophies/choose-action-over-planning.md)
+
 ### Riemann
 
 - [Set State from Client Side](riemann/set-state-from-client-side.md)
 
+### Terraform 
 
-### Philosophies
+- [Using Null Resource to Decouple Exec Commands from Resources](terraform/null-resource-to-run-remote-exec.md)
 
-- [Choose Action over Planning](philosophies/choose-action-over-planning.md)
