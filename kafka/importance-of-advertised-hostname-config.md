@@ -6,9 +6,12 @@ cluster from within the VPC and external to the VPC, through tightly definied se
 VPC direct connection with your datacenter.
 
 Public DNS to access machines via restricted security groups in AWS.
+
+```
 web --> EIP (kafka1.autozane.com) --> EC2 (VPC) kafka1.autozane.com
 web --> EIP (kafka2.autozane.com) --> EC2 (VPC) kafka1.autozane.com
 web --> EIP (kafka3.autozane.com) --> EC2 (VPC) kafka1.autozane.com
+```
 
 ```
 #/etc/kafka/server.properties on kafka1
