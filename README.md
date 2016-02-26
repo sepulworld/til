@@ -7,13 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Trulia](http://trulia.com/).
 
-_6 TIL and counting..._
+_7 TIL and counting..._
 ---
 
 ### Categories
 
 * [AWS](#aws)
 * [Hadoop](#hadoop)
+* [Kafka](#kafka)
 * [Philosophies](#philosophies)
 * [Riemann](#riemann)
 * [Terraform](#terraform)
@@ -29,6 +30,10 @@ _6 TIL and counting..._
 ### Hadoop 
 
 - [Distcp hftp partition size limit](hadoop/distcp-hftp-partition-size-limit.md)
+
+### Kafka 
+
+- [The Importance of Adervertised Hostname Config in Kafka](kafka/importance-of-advertised-hostname-config)
 
 ### Philosophies
 
