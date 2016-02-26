@@ -33,7 +33,7 @@ _7 TIL and counting..._
 
 ### Kafka 
 
-- [The Importance of Adervertised Hostname Config in Kafka](kafka/importance-of-advertised-hostname-config)
+- [The Importance of Adervertised Hostname Config in Kafka](kafka/importance-of-advertised-hostname-config.md)
 
 ### Philosophies
 
