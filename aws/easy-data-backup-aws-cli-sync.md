@@ -7,7 +7,7 @@ First setup the s3 bucket, backup user, and security access with [Terraform](htt
 ```terraform
 ## Autozane s3 bucket, user and access
 resource "aws_s3_bucket" "autozane_backup" {
-    bucket = "autozane_backup"
+    bucket = "autozanebackup"
     acl    = "authenticated-read"
     region = "us-west-2"
 
