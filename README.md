@@ -26,6 +26,7 @@ _7 TIL and counting..._
 - [Using-Roles for External Accounts](aws/using-roles-for-external-accounts.md)
 - [Use Bash Utilities to Update aws/credentials for AssumeRole](aws/bash-utilities-assume-role.md)
 - [Spot Instance Pricing History](aws/spot-instance-pricing-history.md)
+- [Easy and Effective Data Archiving with Terraform and AWS](aws/easy-data-backup-aws-cli-sync.md)
 
 ### Hadoop 
 
